@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**londonwdavis/londonwdavis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## I'm London, a front-end web developer who builds high-quality websites
 ## 🚀 Capabilities
 
