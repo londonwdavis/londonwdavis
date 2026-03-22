@@ -16,9 +16,22 @@
 - Adobe Photoshop
 - Adobe Illustrator
 - Wordpress
+  
+
+ ## 🚀 Projects
+### 🎲 D&D Character Creation Aid  
+[![View](https://img.shields.io/badge/View-Project-blue?style=for-the-badge)](https://dandd-character-creation-5b041.web.app/final-project/index.html)
+
+### ☕ Cardigan Coffee  
+[![View](https://img.shields.io/badge/View-Project-blue?style=for-the-badge)](https://www.behance.net/gallery/239657731/Cardigan-Coffee-GIT-Final-Project)
+
+### 🌿 The Souls Retreat  
+[![View](https://img.shields.io/badge/View-Project-blue?style=for-the-badge)](https://thesoulsretreataz.com/index.html)
+
+
 
 ### 📞 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/london-davis-b43a95357?trk=people-guest_people_search-card) 
-- londonwdavis@gmail.com
+[![Email](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:londonwdavis@gmail.com) 
 
 
