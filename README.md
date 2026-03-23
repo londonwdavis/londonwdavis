@@ -7,12 +7,14 @@ I'm London, a front-end web developer who builds high-quality websites
 
 🚀 Capabilities
 
+
 💻 Programming Languages
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="24" height="24" style="vertical-align:middle" /> <small>HTML</small> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="24" height="24" style="vertical-align:middle" /> <small>JavaScript</small> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="24" height="24" style="vertical-align:middle" /> <small>CSS</small>
 </p>
+
 
 
 🧰 Tools I Have Used & Learned
@@ -26,6 +28,7 @@ I'm London, a front-end web developer who builds high-quality websites
 </p>
   
 
+
  🚀 Projects
  
 🎲 D&D Character Creation Aid  
@@ -38,6 +41,8 @@ I'm London, a front-end web developer who builds high-quality websites
 [![View](https://img.shields.io/badge/View-Project-blue?style=for-the-badge)](https://thesoulsretreataz.com/index.html) 
 
 
+
 📞 Connect With Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/london-davis-b43a95357?trk=people-guest_people_search-card)  
 [![Email](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:londonwdavis@gmail.com)
