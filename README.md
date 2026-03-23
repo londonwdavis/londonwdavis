@@ -15,7 +15,6 @@
 
 ### 🧰 Tools I Have Used & Learned
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/responsive/responsive-original.svg" alt="Responsive Design" width="24" height="24" style="vertical-align:middle" /> <small>Responsive Design</small> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="Web Design" width="24" height="24" style="vertical-align:middle" /> <small>Web Design</small> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="24" height="24" style="vertical-align:middle" /> <small>GitHub</small> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Google Firebase" width="24" height="24" style="vertical-align:middle" /> <small>Google Firebase</small> &nbsp;&nbsp;
