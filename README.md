@@ -1,4 +1,4 @@
-<img width="6912" height="3456" alt="London Davis" src="https://github.com/user-attachments/assets/7f4c5f9f-86b2-4244-a962-8c0b5b259279" />
+<img width="2560" height="1440" alt="London Davis (1)" src="https://github.com/user-attachments/assets/a25699de-4b5e-4572-a8c4-c1c4e811682e" />
 
 ## Hi there 👋
 
@@ -6,18 +6,23 @@
 ## 🚀 Capabilities
 
 ### 💻 Programming Languages
-- HTML
-- JavaScript
-- CSS
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="24" height="24" style="vertical-align:middle" /> <small>HTML</small> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="24" height="24" style="vertical-align:middle" /> <small>JavaScript</small> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="24" height="24" style="vertical-align:middle" /> <small>CSS</small>
+</p>
+
 
 ### 🧰 Tools I Have Used & Learned
-- Responsive Design
-- Web Design
--  GitHub
-- Google Firebase
-- Adobe Photoshop
-- Adobe Illustrator
-- Wordpress
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/responsive/responsive-original.svg" alt="Responsive Design" width="24" height="24" style="vertical-align:middle" /> <small>Responsive Design</small> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="Web Design" width="24" height="24" style="vertical-align:middle" /> <small>Web Design</small> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="24" height="24" style="vertical-align:middle" /> <small>GitHub</small> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Google Firebase" width="24" height="24" style="vertical-align:middle" /> <small>Google Firebase</small> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="Adobe Photoshop" width="24" height="24" style="vertical-align:middle" /> <small>Adobe Photoshop</small> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Adobe Illustrator" width="24" height="24" style="vertical-align:middle" /> <small>Adobe Illustrator</small> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="24" height="24" style="vertical-align:middle" /> <small>WordPress</small>
+</p>
   
 
  ## 🚀 Projects
