@@ -2,7 +2,12 @@
 
 <h1 align="center">Hi, I'm London 👋</h1>
 <p align="center">
-  Front-End Web Developer focused on building clean, responsive, and user-focused websites.
+  I am a Front-End Web Developer with 3 years of
+experience, specializing in small businesses,
+freelancing, and e-commerce. I excel at interpreting
+clients' and teams' goals, turning them into effective,
+creative solutions, while fostering a comfortable and
+encouraging environment.
 </p>
 
 ---
