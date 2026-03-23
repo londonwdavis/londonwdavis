@@ -1,3 +1,4 @@
+<img width="6912" height="3456" alt="London Davis" src="https://github.com/user-attachments/assets/7f4c5f9f-86b2-4244-a962-8c0b5b259279" />
 
 ## Hi there 👋
 
@@ -36,4 +37,4 @@
 [![Email](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:londonwdavis@gmail.com) 
 
 
-<img width="1105" height="226" alt="image-removebg-preview" src="https://github.com/user-attachments/assets/93ff6f83-7305-42dd-95fa-930bd4983bb0" />
+<img width="300" height="226" alt="image-removebg-preview" src="https://github.com/user-attachments/assets/93ff6f83-7305-42dd-95fa-930bd4983bb0" />
