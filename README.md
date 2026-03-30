@@ -1,13 +1,10 @@
 <img width="100%" alt="London Davis Banner" src="https://github.com/user-attachments/assets/0576e96f-c9ec-476f-9210-721c8c6664cf" />
 
-<h1 align="center">Hi, I'm London 👋</h1>
-<p align="center">
-  I am a Front-End Web Developer with 3 years of
-experience, specializing in small businesses,
-freelancing, and e-commerce. I excel at interpreting
-clients' and teams' goals, turning them into effective,
-creative solutions, while fostering a comfortable and
-encouraging environment.
+<h1>Front-End Web Developer 👋</h1>
+
+<p>
+  Front-end developer with 3 years of experience building clean, responsive websites for small businesses, freelance clients, and e-commerce brands.  
+  I specialize in translating ideas into functional, visually engaging digital experiences that align with real client goals.
 </p>
 
 ---
@@ -15,12 +12,12 @@ encouraging environment.
 ## 🚀 Skills
 
 ### 💻 Languages
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ### 🧰 Tools & Technologies
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=github,firebase,wordpress,ps,ai" />
 </p>
 
